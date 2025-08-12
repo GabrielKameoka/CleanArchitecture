@@ -1,0 +1,15 @@
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\bin\Debug\net8.0\ProjetoSRP.exe
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\bin\Debug\net8.0\ProjetoSRP.deps.json
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\bin\Debug\net8.0\ProjetoSRP.runtimeconfig.json
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\bin\Debug\net8.0\ProjetoSRP.dll
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\bin\Debug\net8.0\ProjetoSRP.pdb
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\obj\Debug\net8.0\ProjetoSRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\obj\Debug\net8.0\ProjetoSRP.AssemblyInfoInputs.cache
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\obj\Debug\net8.0\ProjetoSRP.AssemblyInfo.cs
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\obj\Debug\net8.0\ProjetoSRP.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\obj\Debug\net8.0\ProjetoSRP.sourcelink.json
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\obj\Debug\net8.0\ProjetoSRP.dll
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\obj\Debug\net8.0\refint\ProjetoSRP.dll
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\obj\Debug\net8.0\ProjetoSRP.pdb
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\obj\Debug\net8.0\ProjetoSRP.genruntimeconfig.cache
+C:\dev\Udemy\CleanArchitecture\SOLID\ProjetoSRP\ProjetoSRP\obj\Debug\net8.0\ref\ProjetoSRP.dll
