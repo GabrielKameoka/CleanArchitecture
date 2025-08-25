@@ -1,0 +1,15 @@
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\bin\Debug\net9.0\depois.exe
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\bin\Debug\net9.0\depois.deps.json
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\bin\Debug\net9.0\depois.runtimeconfig.json
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\bin\Debug\net9.0\depois.dll
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\bin\Debug\net9.0\depois.pdb
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\obj\Debug\net9.0\depois.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\obj\Debug\net9.0\depois.AssemblyInfoInputs.cache
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\obj\Debug\net9.0\depois.AssemblyInfo.cs
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\obj\Debug\net9.0\depois.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\obj\Debug\net9.0\depois.sourcelink.json
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\obj\Debug\net9.0\depois.dll
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\obj\Debug\net9.0\refint\depois.dll
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\obj\Debug\net9.0\depois.pdb
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\obj\Debug\net9.0\depois.genruntimeconfig.cache
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\depois\depois\obj\Debug\net9.0\ref\depois.dll
