@@ -1,0 +1,15 @@
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\bin\Debug\net9.0\antes.exe
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\bin\Debug\net9.0\antes.deps.json
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\bin\Debug\net9.0\antes.runtimeconfig.json
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\bin\Debug\net9.0\antes.dll
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\bin\Debug\net9.0\antes.pdb
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\obj\Debug\net9.0\antes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\obj\Debug\net9.0\antes.AssemblyInfoInputs.cache
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\obj\Debug\net9.0\antes.AssemblyInfo.cs
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\obj\Debug\net9.0\antes.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\obj\Debug\net9.0\antes.sourcelink.json
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\obj\Debug\net9.0\antes.dll
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\obj\Debug\net9.0\refint\antes.dll
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\obj\Debug\net9.0\antes.pdb
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\obj\Debug\net9.0\antes.genruntimeconfig.cache
+C:\dev\Udemy\CleanArchitecture\SOLID\SRP\antes\antes\obj\Debug\net9.0\ref\antes.dll
